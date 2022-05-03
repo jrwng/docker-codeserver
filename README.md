@@ -2,6 +2,11 @@
 
 A Visual Studio Code remote development environment image, connect by Remote - SSH extension.
 
+## Supported tags and respective Dockerfile links
+
+* [1.0.0-jdk-17, latest](https://github.com/jrwng/docker-codeserver/blob/567a13dc6d1ce567af35fffb8f92d9036fe9d54f/java/17/Dockerfile)
+* [1.0.0-jdk-11](https://github.com/jrwng/docker-codeserver/blob/567a13dc6d1ce567af35fffb8f92d9036fe9d54f/java/11/Dockerfile)
+
 ## How to use this image
 
 ### Install Code Server using Docker Engine
